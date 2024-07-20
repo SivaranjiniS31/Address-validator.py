@@ -1,0 +1,20 @@
+Simple Email Address Validator
+Description:
+This Python script addressVal.py checks if an email address entered by the user contains both '@' and '.' symbols.
+
+Features:
+Validates email addresses based on presence of '@' and '.'.
+Prints "Valid" if both symbols are found; otherwise, prints "Invalid".
+
+Usage:
+
+1.Clone the repository:
+git clone <repository-url>
+
+2.Navigate to the project directory:
+cd <project-directory>
+
+3.Run the script:
+python addressVal.py
+Enter an email address when prompted to see validation results.
+
